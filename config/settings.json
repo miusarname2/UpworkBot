@@ -1,0 +1,12 @@
+{
+  "bot_name": "Telegram Bot",
+  "version": "1.0.0",
+  "integrations": {
+    "dialogflow": {
+      "enabled": false
+    },
+    "n8n": {
+      "enabled": false
+    }
+  }
+}
